@@ -1,0 +1,29 @@
+
+
+# dependencies
+/node_modules
+/packages/*/node_modules
+/packages/*/dist/*
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# dist
+/dist
+
+/static/images/*
+!.gitkeep
+
+/schema.gql
